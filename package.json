@@ -1,0 +1,23 @@
+{
+  "name": "tokens-creator",
+  "version": "1.0.0",
+  "description": "simple tokens creator package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafaadil/tokens-creator.git"
+  },
+  "keywords": [
+    "tokens",
+    "creator"
+  ],
+  "author": "Mostafa harran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafaadil/tokens-creator/issues"
+  },
+  "homepage": "https://github.com/mostafaadil/tokens-creator#readme"
+}
