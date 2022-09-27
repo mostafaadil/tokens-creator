@@ -8,6 +8,6 @@
 
 <br>
 <h1>to use  the tokens creator</h1>
-<h2>const createToken=require('tokens-creator')</h2>
+<h2>const createToken=require('tokens-creator')<h2>
 
 </html>
