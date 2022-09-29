@@ -17,5 +17,7 @@ npm i tokens-creator
 ## use 
 To use  the tokens creator:
 const createToken = require('tokens-creator')
-<br>
+# to create single token
 Now to  use createToken(TokenLength) it will return String token for you 
+# to create group of tokens
+createTokensGroup(TokenLength,numberOfTheTokens) it will return array of  tokens group for you 
